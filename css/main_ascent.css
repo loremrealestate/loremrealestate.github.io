@@ -14896,7 +14896,7 @@ nav {
     }
 
     nav.scrolling .logo {
-        max-width: 190px
+        max-width: 70px
     }
 }
 
@@ -14938,7 +14938,7 @@ nav .navbar-toggler-icon {
 }
 
 nav .logo {
-    max-width: 270px;
+    max-width: 90px;
     -webkit-transition: all 1s;
     -o-transition: all 1s;
     transition: all 1s
